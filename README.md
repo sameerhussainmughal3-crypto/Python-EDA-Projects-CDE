@@ -27,7 +27,4 @@ Welcome to my project repository! This collection showcases my journey through d
 # 💻 Tech Stack Used
 * Languages: Python, Scala (Analysis context)
 * Libraries: Pandas, NumPy, Matplotlib, Seaborn
-* Tools: Jupyter Notebooks, Git, GitHub
-
-# 👨🏫 About the Developer
-I am a Data Engineer and Educator with a focus on building automated pipelines and extracting meaningful stories from data. My background in Teaching and ISSB preparation instills a dsciplined, analytical approach to every codebase I write.
+* Tools: Jupyter Notebooks, Git, GitHub.
